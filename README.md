@@ -23,3 +23,5 @@
 1. Клонуйте репозиторій або завантажте його:
    ```bash
    git clone https://github.com/Asphode1l/Landing.git
+2. Посилання на сайт
+  https://asphode1l.github.io/Landing/
